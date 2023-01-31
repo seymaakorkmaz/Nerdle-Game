@@ -1,7 +1,7 @@
-# Nerdle-Game
+### Nerdle-Game
 
-
-### - My Java OOP project that I did in my sophomore year of university. The document explaining the project has been added to the repository.
-### - Clone of Nerdle game. 
-### - https://nerdlegame.com/
+- Object Oriented Programming course term project. 
+- The documents explaining the project and solution have been added to the repository.
+- Clone of Nerdle game. 
+- https://nerdlegame.com/
 
